@@ -1,0 +1,51 @@
+
+Plus tu transpires à l'entrainement, moins tu saignes le jour du combat<< Francis Ngannou>>>
+Creation d'un Projet Jeux
+
+1) Créer un nouveau projet
+2)separer le jeu de la logique pendu=>faire une classe pour le Jeu et une classe pour le pendu
+3) Intégrer le code fourni pour dessiner le pendu dans la classe s'occupant de la logique du pendu
+NB :
+     Classe Jeu
+la classe du jeu doit s'occuper d'utiliser la classe du pendu pour s'occuper du déroulé du jeu:
+* Demander à la classe du pendu si la lettre saisie est contenue dans le resultat ou non
+*afficher les valeurs du sur l'ecran
+
+*La classe du jeu doit s'occuper d'utiliser la classe du pendu pour s'occcuper du déroulé du jeu :
+ * Faire une boucle pour lire l'entrée utilisateur (de façon sécurisé)
+ * Demander à la classe du pendu si la lettre sisie est contenue	
+	dans le résultat ou non
+ * Afficher les valeurs du pendu sur l'écran dans un ensemble  cohérent
+ * Gestion de la sortie de boucle: gagné/perdu
+
+Element Technique: Classe Du Jeu
+
+la Boucle du jeu principale doit vérifier l'état du jeu stocké dnas la classe Pendu
+
+* Utiliser Console.clear entre chaque tour de jeu pour repartir sur un affichage vierge
+
+Utiliser char.pars afin de récupérer un caractere unitaire (attention aux exception potentielles)
+
+la classe du Pendu
+ C'est la classe qui s'occupe de la logique du jeu du pendu
+elle contient la méthode fournie permettant l'affichage
+ => Lire le code et extraire les inoformations pertinentes
+
+pour simplifier, la classe contient une Liste des mots à trouves elle stokera également la listes des caracteres essayés
+
+elle doit vérifier si le jeu est fini (gagné ou perdu)  choisir un mot dans la liste au hasard, tester si une lettre est une ou plusieurs
+fois dans le mot à trouver et faire l'affichage
+ les differentes methode dans la pendule
+ à l'initialisation de la pendule il faut qu'elle definit le mot à choisir
+
+Element Technique :
+utiliser des propriétes ou des membres avec les portees pertinents
+pour sécuriser l'accès à la donnée
+
+une instance de string peut etre vue comme un tableau de caractères 
+
+Attention : un string est immutable, il est impossible de changer un caractere, il faut créer un tableau  de copie ( monstring.toAAry)
+utiliser un random pour générer un nombre aléatoieres
+
+
+

@@ -1,0 +1,14 @@
+C:\FormationC#\fondamentoC#\projetJeux\JeuxPendule\bin\Debug\net7.0\JeuxPendule.exe
+C:\FormationC#\fondamentoC#\projetJeux\JeuxPendule\bin\Debug\net7.0\JeuxPendule.deps.json
+C:\FormationC#\fondamentoC#\projetJeux\JeuxPendule\bin\Debug\net7.0\JeuxPendule.runtimeconfig.json
+C:\FormationC#\fondamentoC#\projetJeux\JeuxPendule\bin\Debug\net7.0\JeuxPendule.dll
+C:\FormationC#\fondamentoC#\projetJeux\JeuxPendule\bin\Debug\net7.0\JeuxPendule.pdb
+C:\FormationC#\fondamentoC#\projetJeux\JeuxPendule\obj\Debug\net7.0\JeuxPendule.GeneratedMSBuildEditorConfig.editorconfig
+C:\FormationC#\fondamentoC#\projetJeux\JeuxPendule\obj\Debug\net7.0\JeuxPendule.AssemblyInfoInputs.cache
+C:\FormationC#\fondamentoC#\projetJeux\JeuxPendule\obj\Debug\net7.0\JeuxPendule.AssemblyInfo.cs
+C:\FormationC#\fondamentoC#\projetJeux\JeuxPendule\obj\Debug\net7.0\JeuxPendule.csproj.CoreCompileInputs.cache
+C:\FormationC#\fondamentoC#\projetJeux\JeuxPendule\obj\Debug\net7.0\JeuxPendule.dll
+C:\FormationC#\fondamentoC#\projetJeux\JeuxPendule\obj\Debug\net7.0\refint\JeuxPendule.dll
+C:\FormationC#\fondamentoC#\projetJeux\JeuxPendule\obj\Debug\net7.0\JeuxPendule.pdb
+C:\FormationC#\fondamentoC#\projetJeux\JeuxPendule\obj\Debug\net7.0\JeuxPendule.genruntimeconfig.cache
+C:\FormationC#\fondamentoC#\projetJeux\JeuxPendule\obj\Debug\net7.0\ref\JeuxPendule.dll
